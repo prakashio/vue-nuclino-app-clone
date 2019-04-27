@@ -1,6 +1,6 @@
-# task-app
+# Vue Nuclino Clone App
 
-> A Vue.js project
+![N|Solid](https://i.ibb.co/Qvx6HgV/Screenshot-from-2019-04-27-16-06-25.png)
 
 ## Build Setup
 
