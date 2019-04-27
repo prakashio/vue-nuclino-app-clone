@@ -7,7 +7,7 @@
 
 <script>
 
-  import Sidebar from '../layouts/Sections/Sidebar.vue';
+  import Sidebar from '../layouts/Sections/Sidebar/Sidebar.vue';
   import Content from '../layouts/Sections/Content.vue';
 
   export default {
